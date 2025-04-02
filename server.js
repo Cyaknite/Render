@@ -24,3 +24,4 @@ app.use('/api/image',uploadImageRoutes);
 app.listen(PORT,()=>{
     console.log(`The server has started on port ${PORT}`);
 });
+
